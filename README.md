@@ -1,0 +1,2 @@
+# cppjieba-server
+对cppjieba-server进行修改，将原始的老版本的cppjieba组件修改为最新版本的cppjieba
