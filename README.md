@@ -4,6 +4,10 @@
 [![Author](https://img.shields.io/badge/author-@yanyiwu-blue.svg?style=flat)](http://yanyiwu.com/) 
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg?style=flat)](http://yanyiwu.mit-license.org)
 
+## 修改说明
+
+对cppjieba-server进行修改，将原始的老版本的cppjieba组件修改为最新版本的cppjieba
+
 ## 简介
 
 结巴中文分词HTTP服务。
